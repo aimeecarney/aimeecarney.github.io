@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Understanding vs. Applying CSS Specificity "
-date:   2017-03-12 17:51:37 +0000
+date:   2017-03-12 13:51:37 -0400
 ---
 
 
