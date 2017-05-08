@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Building Confidence while Starting to Build my CLI GEM"
-date:   2017-05-08 17:43:51 +0000
+date:   2017-05-08 13:43:52 -0400
 ---
 
 
@@ -9,6 +9,6 @@ As I’m about to sit down and start my CLI Data Gem Project, I can’t help but
 
 So far I have been completing labs, where I am told exactly what to do. This is the first time where my abilities are really put to the test and I am to create something completely on my own without very many instructions.
 
-I am worried that I haven’t actually ingested the information and have just been going along, Imposter Syndrome is taking its full control on me. 
+I am worried that I haven’t actually ingested the information and have just been going along, Imposter Syndrome is taking full control over me. 
 
 But enough excuses and enough time putting this off. Next time you hear from me I’ll have completed this project and be one step closer to confidence and becoming a developer :) See you on the other side!
