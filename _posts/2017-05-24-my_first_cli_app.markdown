@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  My first CLI App
-date:   2017-05-24 02:02:21 +0000
+date:   2017-05-23 22:02:22 -0400
 ---
 
 
@@ -36,5 +36,5 @@ After two weeks of huffing and puffing, it was finally working, I actually MADE 
  
 *Cue happy dance*
 
-![Imgur](http://imgur.com/yCCN527)
+![Imgur](http://i.imgur.com/yCCN527.jpg)
 
