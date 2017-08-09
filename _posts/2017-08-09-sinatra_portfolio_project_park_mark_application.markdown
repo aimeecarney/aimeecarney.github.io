@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Sinatra Portfolio Project: Park Mark Application"
-date:   2017-08-09 04:45:40 +0000
+date:   2017-08-09 00:45:41 -0400
 ---
 
 
